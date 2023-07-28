@@ -8,12 +8,13 @@ namespace WaterBillGenerator
 {
     internal class Program
     {
+        private const int MeterCharge = 75;
         static void Main(string[] args)
         {
             Console.WriteLine("Water Bill Generator");
             Console.Write("Enter number of units consumed: ");
             int unitsConsumed = Convert.ToInt32(Console.ReadLine());
-            int meterCharge = 75;
+            //int meterCharge = 75;
             int totalCharge;
             if(unitsConsumed<=100)
                 totalCharge = unitsConsumed * 5;
@@ -22,7 +23,7 @@ namespace WaterBillGenerator
             else
                 totalCharge = unitsConsumed * 20;
 
-            double totalWaterBill = totalCharge * meterCharge;
+            double totalWaterBill = totalCharge * MeterCharge;
             Console.WriteLine("Total Water Bill: " + totalWaterBill);
 
             //Console.WriteLine("Press any key to exit.");

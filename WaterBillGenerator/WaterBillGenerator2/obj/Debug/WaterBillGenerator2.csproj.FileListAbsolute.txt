@@ -1,0 +1,8 @@
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\WaterBillGenerator\WaterBillGenerator2\bin\Debug\WaterBillGenerator2.exe.config
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\WaterBillGenerator\WaterBillGenerator2\bin\Debug\WaterBillGenerator2.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\WaterBillGenerator\WaterBillGenerator2\bin\Debug\WaterBillGenerator2.pdb
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\WaterBillGenerator\WaterBillGenerator2\obj\Debug\WaterBillGenerator2.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\WaterBillGenerator\WaterBillGenerator2\obj\Debug\WaterBillGenerator2.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\WaterBillGenerator\WaterBillGenerator2\obj\Debug\WaterBillGenerator2.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\WaterBillGenerator\WaterBillGenerator2\obj\Debug\WaterBillGenerator2.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\WaterBillGenerator\WaterBillGenerator2\obj\Debug\WaterBillGenerator2.pdb
