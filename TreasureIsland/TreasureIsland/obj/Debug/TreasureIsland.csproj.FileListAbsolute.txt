@@ -1,0 +1,8 @@
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\Treasureisland\TreasureIsland\bin\Debug\TreasureIsland.exe.config
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\Treasureisland\TreasureIsland\bin\Debug\TreasureIsland.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\Treasureisland\TreasureIsland\bin\Debug\TreasureIsland.pdb
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\Treasureisland\TreasureIsland\obj\Debug\TreasureIsland.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\Treasureisland\TreasureIsland\obj\Debug\TreasureIsland.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\Treasureisland\TreasureIsland\obj\Debug\TreasureIsland.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\Treasureisland\TreasureIsland\obj\Debug\TreasureIsland.exe
+C:\Users\acer\Desktop\Aurionpro\Training\Assignments\3\Treasureisland\TreasureIsland\obj\Debug\TreasureIsland.pdb
