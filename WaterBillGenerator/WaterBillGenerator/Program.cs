@@ -23,14 +23,18 @@ namespace WaterBillGenerator
             else
                 totalCharge = unitsConsumed * 20;
             */
-            int totalCharge = (unitsConsumed <= 100) ? unitsConsumed * 5 : (unitsConsumed <= 250) ? unitsConsumed * 10 : unitsConsumed * 20;
+            if (unitsConsumed >= 0)
+            {
+                int totalCharge = (unitsConsumed <= 100) ? unitsConsumed * 5 : (unitsConsumed <= 250) ? unitsConsumed * 10 : unitsConsumed * 20;
 
-            double totalWaterBill = totalCharge * MeterCharge;
-            Console.WriteLine("Total Water Bill: " + totalWaterBill);
+                double totalWaterBill = totalCharge * MeterCharge;
+                Console.WriteLine("Total Water Bill: " + totalWaterBill);
 
-            //Console.WriteLine("Press any key to exit.");
-            //Console.ReadKey();
-
+                //Console.WriteLine("Press any key to exit.");
+                //Console.ReadKey();
+            }
+            else
+                Console.WriteLine("Enter positive values.");
         }
     }
 }
